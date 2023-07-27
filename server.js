@@ -1,4 +1,4 @@
-// Server for Week
+// Server for Weekly Organizer
 
 // Dependencies
 // path module
