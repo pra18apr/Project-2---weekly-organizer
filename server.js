@@ -1,4 +1,4 @@
-// Server for Week-In-View
+// Server for Week
 
 // Dependencies
 // path module
