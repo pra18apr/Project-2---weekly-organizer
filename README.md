@@ -41,8 +41,8 @@ Run the following commands:\
 
 #### Screenshot
 
-![Screenshot of the Application](  ______  "Screenshot of the Application")
-### Link to the application running on Heroku: [Weekly-organizer]
+![Screenshot of the Application](![Screenshot of the Application](image.png))
+### Link to the application running on Heroku: [Weekly-organizer](https://tranquil-cliffs-08653-47fa797c3d17.herokuapp.com/)
 
 
 ## License
